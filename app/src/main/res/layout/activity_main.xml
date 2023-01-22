@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0FAFF"
+    tools:context=".MainActivity">
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/img1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img1"
+        android:text="All Country's Information"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="35sp"
+        android:textColor="#000"
+        android:fontFamily="cursive"
+        android:layout_centerHorizontal="true"
+/>
+</RelativeLayout>

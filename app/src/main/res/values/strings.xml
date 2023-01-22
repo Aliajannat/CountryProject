@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CountryProject</string>
+
+
+    <string name="bd_description">
+Bangladesh, country of South Asia, located in the delta of the Padma (Ganga) and Jamuna (Brahmaputra) rivers in the northeastern part of the Indian subcontinent.
+Bangladesh.The riverine country of Bangladesh (Land of the Bengals) is one of the most densely populated countries in the world, and its people are predominantly Muslim. As the eastern portion of the historical region of Bengal, the area once formed, along with what is now the Indian state of West Bengal, the province of Bengal in British India. With the partition of India in 1947, it became the Pakistani province of East Bengal (later renamed East Pakistan), one of five provinces of Pakistan, separated from the other four by 1,100 miles (1,800 km) of Indian territory. In 1971 it became the independent country of Bangladesh, with its capital at Dhaka.
+
+
+    </string>
+
+    <string name="india_description">The Indian government led by the Hindu nationalist Bharatiya Janata Party (BJP) escalated its crackdown on civil society and the media. Authorities prosecute activists, journalists, peaceful protesters, and other critics on fabricated counterterrorism and sedition charged. They have shut down rights groups using foreign funding regulations or unfounded allegations of financial irregularities. The government has adopted laws and policies that discriminate against religious minorities, especially Muslims. This, coupled with vilification of Muslims and other minorities by some BJP leaders, and the police failure to act against government supporters who commit violence, has emboldened Hindu nationalist groups to target members of minority communities or civil society groups with impunity.</string>
+
+<string name="italy_des">Italy, country of south-central Europe, occupying a peninsula that juts deep into the Mediterranean Sea. Italy comprises some of the most varied and scenic landscapes on Earth and is often described as a country shaped like a boot. At its broad top stand the Alps, which are among the world’s most rugged mountains. Italy’s highest points are along Monte Rosa, which peaks in Switzerland, and along Mont Blanc, which peaks in France. The western Alps overlook a landscape of Alpine lakes and glacier-carved valleys that stretch down to the Po River and the Piedmont. Tuscany, to the south of the cisalpine region, is perhaps the country’s best-known region. </string>
+
+</resources>
